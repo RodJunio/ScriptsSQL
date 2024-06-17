@@ -1,0 +1,3 @@
+CREATE DATABASE db_Biblioteca;
+
+SHOW DATABASES;
