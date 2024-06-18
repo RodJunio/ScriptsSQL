@@ -1,0 +1,1 @@
+RENAME TABLE Clientes TO Meus_Clientes;
